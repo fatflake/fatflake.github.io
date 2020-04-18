@@ -1,0 +1,3 @@
+#!/bin/sh
+# Invalid PHP invocation.<?php /*
+exec /usr/lib/cgi-bin/php "$@" #*/ ?>
